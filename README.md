@@ -80,14 +80,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me: I'm ready for new projects</h3>
 
 ###
 
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 
 
 
